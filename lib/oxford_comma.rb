@@ -4,7 +4,7 @@
 #adds 'and' between elements when given a 2-element array
 
 def oxford_comma(array)
-  while array.length = 1 
+  if array.length == 1 
   array.to_s 
 end 
 end
