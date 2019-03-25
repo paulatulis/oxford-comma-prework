@@ -1,0 +1,1 @@
+#returns a string without any additional formatting when given a 1-element array
