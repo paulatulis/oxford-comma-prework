@@ -11,7 +11,7 @@ def oxford_comma(array)
     array.join
     elsif array.length == 3
     array.insert(1, ", ")
-    array.insert(3, " ,and ")
+    array.insert(3, ",and ")
     array.join
 end 
 end
